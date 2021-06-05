@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: 'vuemusic',
+    publicPath: '/vuemusic/',
     outputDir: 'docs'
   }
